@@ -18,7 +18,7 @@ I'm interested in using data and technology to solve real-world problems and cre
 - 📈 Building my portfolio with data science and analytics projects.
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Mahibur Rahman](YOUR_LINKEDIN_LINK)
+- 💼 LinkedIn: [Mahibur Rahman](https://www.linkedin.com/in/mahibur-mahi-008b5a2a4/)
 - 📧 Email: mahirahman206@gmail.com
 - 💻 GitHub: [Mahibur988](https://github.com/Mahibur988)
 
