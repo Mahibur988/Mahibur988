@@ -23,3 +23,21 @@ I'm interested in using data and technology to solve real-world problems and cre
 - 💻 GitHub: [Mahibur988](https://github.com/Mahibur988)
 
 I’m always interested in connecting with people in data science, analytics, AI, and technology.
+## 🎯 My Goals
+
+- Keep improving my Python, SQL, and data analysis skills
+- Build more real-world data science projects
+- Learn more about Artificial Intelligence and Machine Learning
+- Find an internship where I can gain hands-on experience
+- Continue building my GitHub portfolio
+
+## ⚽ Beyond Coding
+
+When I’m not working with data, I enjoy playing soccer, taking photos, and spending time with friends. I also like learning about new technology and finding creative ways to solve problems.
+
+## 📫 Let’s Connect
+
+- LinkedIn: Mahibur Rahman
+- GitHub: [Mahibur988](https://github.com/Mahibur988)
+
+Thanks for visiting my profile! 🚀
