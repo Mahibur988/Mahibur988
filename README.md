@@ -9,3 +9,10 @@ I'm interested in using data and technology to solve real-world problems and cre
 - Data Analysis: Pandas, NumPy, Excel
 - Data Visualization: Power BI, Matplotlib
 - Databases: SQLite
+## 🚀 Current Learning & Projects
+
+- 📊 Learning more about data science, machine learning, and predictive modeling.
+- 🐍 Improving my Python, R, SQL, and data visualization skills.
+- 💻 Working on projects that involve data analysis and real-world problem solving.
+- 🤖 Exploring artificial intelligence and planning to pursue a master's degree in AI.
+- 📈 Building my portfolio with data science and analytics projects.
